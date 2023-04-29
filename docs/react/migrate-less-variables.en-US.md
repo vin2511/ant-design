@@ -36,3 +36,20 @@ This document contains the correspondence between all the less variables related
 | `@modal-confirm-body-padding` | - | Deprecated for style change |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Result
+
+<!-- prettier-ignore -->
+| Less variables | Component Token | Note |
+| --- | --- | --- |
+| `@success-color` | `colorSuccess` | - |
+| `@info-color` | `colorInfo` | - |
+| `@warning-color` | `colorWarning` | - |
+| `@error-color` | `colorError` | - |
+| `@result-icon-font-size` | `resultIconFontSize` | - |
+| `@heading-color` | `colorTextHeading` | - |
+| `@result-title-font-size` | `resultTitleFontSize` | - |
+| `@text-color-secondary` | `colorTextDescription` | - |
+| `@result-subtitle-font-size` | `resultSubtitleFontSize` | - |
+| `@result-extra-margin` | `resultExtraMargin` | - |
+| `@background-color-light` | `colorFillAlter` | - |

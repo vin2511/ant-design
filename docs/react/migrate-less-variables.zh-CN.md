@@ -36,3 +36,20 @@ title: less 变量迁移 Component Token
 | `@modal-confirm-body-padding` | - | 由于样式变化已废弃 |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Result 结果
+
+<!-- prettier-ignore -->
+| less 变量 | Component Token | 备注 |
+| --- | --- | --- |
+| `@success-color` | `colorSuccess` | - |
+| `@info-color` | `colorInfo` | - |
+| `@warning-color` | `colorWarning` | - |
+| `@error-color` | `colorError` | - |
+| `@result-icon-font-size` | `resultIconFontSize` | - |
+| `@heading-color` | `colorTextHeading` | - |
+| `@result-title-font-size` | `resultTitleFontSize` | - |
+| `@text-color-secondary` | `colorTextDescription` | - |
+| `@result-subtitle-font-size` | `resultSubtitleFontSize` | - |
+| `@result-extra-margin` | `resultExtraMargin` | - |
+| `@background-color-light` | `colorFillAlter` | - |
