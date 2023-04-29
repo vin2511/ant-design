@@ -37,7 +37,7 @@ title: less 变量迁移 Component Token
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
 
-## Notification 通知提醒框
+## Notification
 
 <!-- prettier-ignore -->
 | less 变量 | Component Token | 备注 |
