@@ -36,3 +36,31 @@ This document contains the correspondence between all the less variables related
 | `@modal-confirm-body-padding` | - | Deprecated for style change |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Drawer
+
+<!-- prettier-ignore -->
+| Less variables | Component Token | Note |
+| --- | --- | --- |
+| `@zindex-modal` | `zIndexPopup` | - |
+| `@modal-mask-bg` | `colorBgMask` | - |
+| `@animation-duration-slow` | `motionDurationSlow` | - |
+| `@shadow-1-right` | `boxShadowDrawerLeft` | - |
+| `@shadow-1-left` | `boxShadowDrawerRight` | - |
+| `@shadow-1-down` | `boxShadowDrawerUp` | - |
+| `@shadow-1-up` | `boxShadowDrawerDown` | - |
+| `@drawer-bg` | `colorBgElevated` | - |
+| `@drawer-header-padding` | `padding`、`paddingLG` | `${padding}px ${paddingLG}px` |
+| `@drawer-title-font-size` | `fontSizeLG` | - |
+| `@drawer-title-line-height` | `lineHeightLG` | - |
+| `@border-width-base` | `lineWidth` | `lineWidth`  is a number without units,`@border-width-base` with units |
+| `@border-style-base` | `lineType` | - |
+| `@border-color-split` | `colorSplit` | - |
+| `@modal-close-color` | `colorIcon` | - |
+| `@font-size-lg` | `fontSizeLG` | - |
+| `@icon-color-hover` | `colorIconHover` | - |
+| `@heading-color` | `colorText` | - |
+| `@heading-color` | `colorText` | - |
+| `@drawer-body-padding` | `paddingLG` | - |
+| `@drawer-footer-padding-vertical` | `drawerFooterPaddingVertical` | `drawerFooterPaddingVertical`  is a number without units, `@drawer-footer-padding-vertical` with units |
+| `@drawer-footer-padding-horizontal` | `drawerFooterPaddingHorizontal` | `drawerFooterPaddingHorizontal`  is a number without units, `@drawer-footer-padding-horizontal` with units |

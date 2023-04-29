@@ -36,3 +36,31 @@ title: less 变量迁移 Component Token
 | `@modal-confirm-body-padding` | - | 由于样式变化已废弃 |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Drawer 抽屉
+
+<!-- prettier-ignore -->
+| less 变量 | Component Token | 备注 |
+| --- | --- | --- |
+| `@zindex-modal` | `zIndexPopup` | - |
+| `@modal-mask-bg` | `colorBgMask` | - |
+| `@animation-duration-slow` | `motionDurationSlow` | - |
+| `@shadow-1-right` | `boxShadowDrawerLeft` | - |
+| `@shadow-1-left` | `boxShadowDrawerRight` | - |
+| `@shadow-1-down` | `boxShadowDrawerUp` | - |
+| `@shadow-1-up` | `boxShadowDrawerDown` | - |
+| `@drawer-bg` | `colorBgElevated` | - |
+| `@drawer-header-padding` | `padding`、`paddingLG` | `${padding}px ${paddingLG}px` |
+| `@drawer-title-font-size` | `fontSizeLG` | - |
+| `@drawer-title-line-height` | `lineHeightLG` | - |
+| `@border-width-base` | `lineWidth` | `lineWidth` 为数字，不带单位，`@border-width-base` 带单位 |
+| `@border-style-base` | `lineType` | - |
+| `@border-color-split` | `colorSplit` | - |
+| `@modal-close-color` | `colorIcon` | - |
+| `@font-size-lg` | `fontSizeLG` | - |
+| `@icon-color-hover` | `colorIconHover` | - |
+| `@heading-color` | `colorText` | - |
+| `@heading-color` | `colorText` | - |
+| `@drawer-body-padding` | `paddingLG` | - |
+| `@drawer-footer-padding-vertical` | `drawerFooterPaddingVertical` | `drawerFooterPaddingVertical` 为数字，不带单位，`@drawer-footer-padding-vertical` 带单位 |
+| `@drawer-footer-padding-horizontal` | `drawerFooterPaddingHorizontal` | `drawerFooterPaddingHorizontal` 为数字，不带单位，`@drawer-footer-padding-horizontal` 带单位 |
