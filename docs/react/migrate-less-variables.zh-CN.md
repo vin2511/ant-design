@@ -36,3 +36,16 @@ title: less 变量迁移 Component Token
 | `@modal-confirm-body-padding` | - | 由于样式变化已废弃 |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Statistic 统计数值
+
+<!-- prettier-ignore -->
+| less 变量 | Component Token | 备注 |
+| --- | --- | --- |
+| `@margin-xss` | `marginXXS` | - |
+| `@text-color-secondary` | `colorTextDescription` | - |
+| `@statistic-title-font-size` | `statisticTitleFontSize` | - |
+| `@padding-md` | `padding` | - |
+| `@heading-color` | `colorTextHeading` | - |
+| `@statistic-content-font-size` | `statisticContentFontSize` | - |
+| `@statistic-font-family` | `statisticFontFamily` | - |

@@ -36,3 +36,16 @@ This document contains the correspondence between all the less variables related
 | `@modal-confirm-body-padding` | - | Deprecated for style change |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Statistic
+
+<!-- prettier-ignore -->
+| Less variables | Component Token | Note |
+| --- | --- | --- |
+| `@margin-xss` | `marginXXS` | - |
+| `@text-color-secondary` | `colorTextDescription` | - |
+| `@statistic-title-font-size` | `statisticTitleFontSize` | - |
+| `@padding-md` | `padding` | - |
+| `@heading-color` | `colorTextHeading` | - |
+| `@statistic-content-font-size` | `statisticContentFontSize` | - |
+| `@statistic-font-family` | `statisticFontFamily` | - |
