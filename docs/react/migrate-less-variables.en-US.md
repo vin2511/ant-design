@@ -37,7 +37,7 @@ This document contains the correspondence between all the less variables related
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
 
-## Notification 通知提醒框
+## Notification
 
 <!-- prettier-ignore -->
 | Less variables | Component Token | Note |
