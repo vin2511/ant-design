@@ -36,3 +36,18 @@ title: less 变量迁移 Component Token
 | `@modal-confirm-body-padding` | - | 由于样式变化已废弃 |
 | `@modal-confirm-title-font-size` | `modalHeaderTitleFontSize` | - |
 | `@modal-border-radius` | `borderRadiusLG` | - |
+
+## Message 全局提示
+
+<!-- prettier-ignore -->
+| less 变量 | Component Token | 备注 |
+| --- | --- | --- |
+| `@zindex-message` | `zIndexPopup` | - |
+| `@message-notice-content-padding` | `messageNoticeContentPadding` | - |
+| `@message-notice-content-bg` | `messageNoticeContentBg` | - |
+| `@border-radius-base` | `borderRadiusLG` | - |
+| `@shadow-2` | `boxShadow` | - |
+| `@success-color` | `colorSuccess` | - |
+| `@error-color` | `colorError` | - |
+| `@warning-color` | `colorWarning` | - |
+| `@info-color` | `colorInfo` | - |
